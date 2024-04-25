@@ -6,7 +6,7 @@
 8. R, Python, Tableau, Power BI 등을 활용한 데이터 시각화 능력
 ---
 ## 레포지토리 소개
-본 레포지토리는 KAMP에서 제공하는 에너지(전력) 사용량 데이터를 활용해 공장에서 관측된는 다양한 변수에 대해 전기 사용량을 예측하는 모델을 학습하고, 결과의 분석 내용을 정리한 것입니다.
+본 레포지토리는 KAMP에서 제공하는 [에너지(전력) 사용량 데이터](https://www.kamp-ai.kr/aidataDetail?AI_SEARCH=%EC%A0%84%EA%B8%B0&page=1&DATASET_SEQ=27&EQUIP_SEL=&GUBUN_SEL=&FILE_TYPE_SEL=&WDATE_SEL=)를 활용해 공장에서 관측된는 다양한 변수에 대해 전기 사용량을 예측하는 모델을 학습하고, 결과의 분석 내용을 정리한 것입니다.
 
 ---
 ## EDA
